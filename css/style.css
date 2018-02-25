@@ -2,9 +2,18 @@ body{
     background-color: rgb(175, 175, 175);
 }
 
+#mainImg{
+    margin: 15px 0;
+    width: 70%;
+    height: 70%;
+    border-radius: 10px;
+}
+
 #carousel{
     width: 70%;
     margin-left:15%; 
+    border-radius: 10px;
+    border: 2px solid black;
 }
 
 
